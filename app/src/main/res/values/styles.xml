@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Kotlin" parent="Theme.PlayPennyDrop">
+        <item name="colorPrimary">@color/kotlinBlue</item>
+        <item name="colorPrimaryDark">@color/kotlinPurple</item>
+        <item name="colorAccent">@color/kotlinOrange</item>
+    </style>
+</resources>

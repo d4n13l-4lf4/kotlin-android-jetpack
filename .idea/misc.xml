@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.16770833333333332" />
+        <entry key="app/src/main/res/drawable/ai_toggle_bg.xml" value="0.2578125" />
+        <entry key="app/src/main/res/drawable/bitcoin.xml" value="0.18072916666666666" />
+        <entry key="app/src/main/res/drawable/dice_6.xml" value="0.14739583333333334" />
+        <entry key="app/src/main/res/drawable/ic_baseline_android_24.xml" value="0.14739583333333334" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.14739583333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_about.xml" value="0.16077898550724637" />
+        <entry key="app/src/main/res/layout/fragment_game.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_pick_players.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/fragment_rankings.xml" value="0.15052083333333333" />
+        <entry key="app/src/main/res/layout/layout_coin_slot.xml" value="0.16458333333333333" />
+        <entry key="app/src/main/res/layout/player_list_item.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/player_summary_list_item.xml" value="0.15052083333333333" />
+        <entry key="app/src/main/res/menu/navigation.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/options.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/xml/preferences.xml" value="0.1838768115942029" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

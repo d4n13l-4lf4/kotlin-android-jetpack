@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pickPlayersFragment"
+        android:icon="@drawable/ic_baseline_android_24"
+        android:title="@string/players" />
+    <item android:id="@+id/gameFragment"
+        android:icon="@drawable/mdi_dice_6_24dp"
+        android:title="@string/game" />
+    <item
+        android:id="@+id/rankingFragment"
+        android:icon="@drawable/ic_baseline_list_24"
+        android:title="@string/ranking"/>
+</menu>

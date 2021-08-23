@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory android:title="Game Settings">
+        <SeekBarPreference
+            android:defaultValue="10"
+            android:key="pennyCount"
+            android:max="20"
+            android:summary="This only takes effect on a new game"
+            android:title="Starting Penny Count"
+            app:min="1"
+            app:showSeekBarValue="true"
+            />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Theme Settings">
+        <SwitchPreferenceCompat
+            android:key="fastAI"
+            android:summary="AI turns will be much faster."
+            android:title="Fast AI"/>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="About the App">
+        <Preference
+            android:key="credits"
+            android:summary="@string/about_app_summary"
+            android:title="@string/about_penny_drop"/>
+    </PreferenceCategory>
+    <DropDownPreference
+        android:defaultValue="AppTheme"
+        android:entries="@array/themes"
+        android:entryValues="@array/theme_values"
+        android:key="theme"
+        android:title="@string/app_theme"
+        app:useSimpleSummaryProvider="true"/>
+    <ListPreference
+        android:defaultValue="System"
+        android:entries="@array/theme_modes"
+        android:entryValues="@array/theme_mode_values"
+        android:key="themeMode"
+        android:title="@string/theme_mode"
+        app:useSimpleSummaryProvider="true"/>
+</PreferenceScreen>

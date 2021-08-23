@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Play penny drop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="players">Players</string>
+    <string name="game">Game</string>
+    <string name="play_button">Play button</string>
+    <string name="player_name">Player name</string>
+    <string name="roll">Roll</string>
+    <string name="or">OR</string>
+    <string name="pass">Pass</string>
+    <string name="coin_icon">Coin icon</string>
+    <string name="coins_s_left">coins(s) left</string>
+    <string name="na">N/A</string>
+    <string name="ranking">Ranking</string>
+    <string name="player_type_image">Player type image</string>
+    <string name="gamesPlayed">games played</string>
+    <string name="settings">Settings</string>
+    <string name="app_theme">App Theme</string>
+    <string name="theme_mode">Theme mode</string>
+    <string name="about_app_summary">About summary</string>
+    <string name="about_penny_drop">About Penny Drop</string>
+    <string name="penny_drop_created_by">
+        The <i>Penny Drop</i> app was
+        created by Michael Fazio for the Pragmatic Bookshelf title
+        <a href="https://pragprog.com/titles/mfjetpack/">
+            "Kotlin and Android Development featuring Jetpack"
+        </a>.
+    </string>
+</resources>
